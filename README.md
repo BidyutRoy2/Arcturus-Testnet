@@ -1,4 +1,4 @@
-# Chainbase Network Testnet Transaction & Contracts Deploy Bot by HiddenGem
+# Arcturus Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
@@ -17,12 +17,12 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Chainbase-Testnet.git
+git clone https://github.com/BidyutRoy2/Arcturus-Testnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Arcturus-Testnet
 cd Transaction-Bot
 ```
 
@@ -62,7 +62,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Arcturus-Testnet
 cd Contracts-Deploy-Bot
 ```
 
@@ -83,11 +83,7 @@ Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef123456789
    npm start
    ```
 
-### 6. Follow Next Step and Deploy Contracts 
-
-
-
-## Follow the prompts to select the network, enter the token name, symbol, and supply, and deploy the contract.
+### 6. Follow Next Step and Deploy Contracts the prompts to select the network, enter the token name, symbol, and supply, and deploy the contract.
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
