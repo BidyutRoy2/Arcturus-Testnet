@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Arcturus Testnet",
+    "rpcUrl": "https://rpc-testnet.arcturuschain.io",
+    "chainId": "5615",
+    "symbol": "tARC",
+    "explorer": "https://testnet.arcscan.net"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
